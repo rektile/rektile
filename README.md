@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angelo aka rektile</h1>
 <h3 align="center">I'm a cyber security student with a passion for hacking and reverse engineering.</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rektile&show_icons=true&locale=en&layout=compact" alt="rektile" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rektile&show_icons=true&locale=en&layout=compact&theme=merko" alt="rektile" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rektile&show_icons=true&locale=en" alt="rektile" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rektile&show_icons=true&locale=en&theme=merko" alt="rektile" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
