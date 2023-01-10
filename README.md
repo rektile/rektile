@@ -3,7 +3,7 @@
 
 <h2 align="left" style="margin-top:3em">Goals 2023</h2>
 <h3 align="left" style="margin-left:1em">⭐ [ ] Finish my MySec repository</h3>
-<h3 align="left" style="margin-left:1em">⭐ [ ] Making packet inspection tool</h3>
+<h3 align="left" style="margin-left:1em">⭐ [ ] Make a packet inspection tool</h3>
 <h3 align="left" style="margin-left:1em">⭐ [ ] Learn c++</h3>
 <h3 align="left" style="margin-left:1em">⭐ [ ] Get my CEH certification </h3>
 <h3 align="left" style="margin-left:1em">⭐ [ ] Make my own steganography tool using the lsb method</h3>
