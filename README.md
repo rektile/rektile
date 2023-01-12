@@ -10,11 +10,11 @@
 
 <h2 align="left" style="margin-top:3em">Stats</h2>
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=rektile&show_icons=true&locale=en&layout=compact&theme=radical"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=rektile&show_icons=true&locale=en&layout=compact&theme=radical"
         alt="rektile" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=rektile&show_icons=true&locale=en&theme=radical"
+        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rektile&show_icons=true&locale=en&theme=radical"
         alt="rektile" /></p>
 
 <h2 align="left">Languages and Tools:</h2>
