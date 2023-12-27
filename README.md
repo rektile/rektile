@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Angelo aka rektile</h1>
 <h3 align="center">Welcome to my GitHub page! I am a cyber security student with a passion for learning about and understanding the constantly evolving world of information security. Here, you will find projects and experiments that I have worked on.</h3>
 
-<h2 align="left" style="margin-top:3em">Goals 2023</h2>
+<h2 align="left" style="margin-top:3em">Goals 2024</h2>
 <h3 align="left" style="margin-left:1em">⭐ ❌ Finish my MySec repository</h3>
 <h3 align="left" style="margin-left:1em">⭐ ❌ Make a packet inspection tool</h3>
 <h3 align="left" style="margin-left:1em">⭐ ❌ Learn c++</h3>
-<h3 align="left" style="margin-left:1em">⭐ ❌ Get my CEH certification </h3>
 <h3 align="left" style="margin-left:1em">⭐ ✅ Make my own steganography tool using the lsb method</h3>
 
 <h2 align="left" style="margin-top:3em">Stats</h2>
